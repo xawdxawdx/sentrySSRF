@@ -39,7 +39,5 @@ $ pip3 install -r requirements.txt
 
 
 ## Final remarks
-- This is the first time I publicly release a tool. Contributions are much appreciated!
-- LinkFinder is published under the [MIT License](https://github.com/GerbenJavado/LinkFinder/blob/master/LICENSE).
 - Thanks to GerbenJavado
 # sentrySSRF
